@@ -1,10 +1,10 @@
 # Survey on Reflection Removal Methods and Datasets
 
 ## Marks
-Task Domain: ![](https://img.shields.io/badge/-polar-green) ![](https://img.shields.io/badge/-single%20image-blue)  
-Data: ![](https://img.shields.io/badge/-real-orange) ![](https://img.shields.io/badge/-synthetic-blueviolet) ![](https://img.shields.io/badge/-both-violet) ![](https://img.shields.io/badge/-new%20dataset-ff69b4)  
-Network: ![](https://img.shields.io/badge/-RNN-yellow) ![](https://img.shields.io/badge/-Transformer-red)  
-Code: ![](https://img.shields.io/badge/-pytorch-lightgreen) ![](https://img.shields.io/badge/-tensorflow-lightblue)  
+> Task Domain: ![](https://img.shields.io/badge/-polar-green) ![](https://img.shields.io/badge/-single%20image-blue)  
+> Data: ![](https://img.shields.io/badge/-real-orange) ![](https://img.shields.io/badge/-synthetic-blueviolet) ![](https://img.shields.io/badge/-both-violet) ![](https://img.shields.io/badge/-new%20dataset-ff69b4)  
+> Network: ![](https://img.shields.io/badge/-RNN-yellow) ![](https://img.shields.io/badge/-Transformer-red)  
+> Code: ![](https://img.shields.io/badge/-pytorch-lightgreen) ![](https://img.shields.io/badge/-tensorflow-lightblue)  
 
 ## Papers
 
