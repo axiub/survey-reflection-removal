@@ -1,5 +1,5 @@
 # Survey on Reflection Removal Methods and Datasets
-A colletion of papers and datasets on reflection removal task.
+A colletion of papers and datasets on reflection removal task. Keywords were used to label the papers.
 
 ## Marks
 >* Task Domain: ![](https://img.shields.io/badge/task-polar-green) ![](https://img.shields.io/badge/task-single%20image-blue)  
